@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Football Match Schedule</string>
+    <string name="Goals">Goals</string>
+    <string name="title_lineups">Lineups</string>
+    <string name="Shots">Shots</string>
+    <string name="Subs">Subtitutes</string>
+    <string name="GK">Goal Keeper</string>
+    <string name="DF">Defense</string>
+    <string name="MF">Midfield</string>
+    <string name="FW">Forward</string>
+    <string name="detail_vs">vs</string>
+
+    <array name="schedulesType">
+        <item>Last Match</item>
+        <item>Next Match</item>
+    </array>
+</resources>
