@@ -6,3 +6,7 @@ This is several files that has been created due to my participation within this 
 1. Showing 15 match schedules, both the last and the next based on League ID. You are free to determine which League ID to use.
 2. Displays match details from the selected schedule.
 3. In the match details page, you must display the logo of each team.
+
+# Captures :
+
+![alt text](https://github.com/Shaniamh/Submission-2-GDK-Dicoding/issues/1#issue-378194235)
