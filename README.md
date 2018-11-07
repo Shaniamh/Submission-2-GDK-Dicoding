@@ -9,4 +9,4 @@ This is several files that has been created due to my participation within this 
 
 # Captures :
 
-![alt text](https://github.com/Shaniamh/Submission-2-GDK-Dicoding/issues/1#issue-378194235)
+![CLICK THIS](https://github.com/Shaniamh/Submission-2-GDK-Dicoding/issues/1#issue-378194235)
